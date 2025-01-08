@@ -85,3 +85,5 @@ This project is inspired by advancements in medical imaging and the potential of
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
+
+Contact kuantian_procai@hotmail.com for more information
