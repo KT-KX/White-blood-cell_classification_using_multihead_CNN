@@ -1,8 +1,5 @@
 # White-blood-cell_classification_using_multihead_CNN
 
-
-Here is the raw Markdown for your GitHub README:
-
 # White Blood Cell Classification Using CNN
 
 ## Overview
