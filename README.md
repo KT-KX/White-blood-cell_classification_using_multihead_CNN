@@ -1,6 +1,5 @@
 # White-blood-cell_classification_using_multihead_CNN
 
-# White Blood Cell Classification Using CNN
 
 ## Overview
 This project focuses on classifying white blood cells into five categories: Basophil, Eosinophil, Lymphocyte, Monocyte, and Neutrophil using a Convolutional Neural Network (CNN). The model is evaluated based on its performance, as visualized in the confusion matrix provided.
